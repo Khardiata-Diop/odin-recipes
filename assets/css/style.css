@@ -20,4 +20,21 @@ img {
 #page {
   text-align: center;
   background-color: #fdfbf7;
+  margin: 50px;
+}
+
+.homepage-title {
+  font-family: "Rye", serif, monospace;
+  color: #a8201a;
+  font-size: 50px;
+}
+
+h2,
+h3 {
+  color: #a8201a;
+}
+
+p {
+  font-family: "Merriweather", serif, monospace;
+  color: #2b2523;
 }
