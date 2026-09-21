@@ -16,3 +16,8 @@ img {
   height: 100%;
   width: 300px;
 }
+
+#page {
+  text-align: center;
+  background-color: #fdfbf7;
+}
